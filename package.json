@@ -1,0 +1,11 @@
+   
+{
+    "name": "ping-pong",
+    "version": "0.0.1",
+    "description": "respond to /ping with 'pong' if pong is healthy",
+    "main": "index.js",
+    "author": "pchico83",
+    "dependencies": {
+      "express": "^4.13.3"
+    }
+  }

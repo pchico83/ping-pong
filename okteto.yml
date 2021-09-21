@@ -1,0 +1,8 @@
+name: ping
+command: bash
+sync:
+  - .:/src
+forward:
+  - 8080:8080
+reverse:
+  - 8081:8081
